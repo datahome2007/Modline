@@ -5,4 +5,4 @@ Ask me suggestions such as getting verified in a future update.
 # Bugfixes
 Ask me bugfixes to I fix to a future update
 # Install setup
-In GitHub, install getting the .apk file searching the **
+In GitHub, install getting the .apk file searching the **Releases** tab.
